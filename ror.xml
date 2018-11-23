@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.villa42ahungalla.com/</title>
+  <link>http://www.villa42ahungalla.com/</link>
+
+<item>
+     <link>http://www.villa42ahungalla.com/index.html</link>
+     <title>Villa 42 ahungalla | Home</title>
+     <description>Villa 42 offers accommodation with a private balcony,Air conditioning and free Wi-Fi or 
+                        terrace. There's a Kitchen, parking aria, pool and beautiful garden </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.villa42ahungalla.com/about.html</link>
+     <title>About Us</title>
+     <description>Villa 42 Pvt.Ltd is a 1.5-hour drive from Colombo International Airport.we have nice garden and out door pool also
+        All rooms are equipped with air conditioning , and free Wi-Fi. The rooms have a seating area and a private bathroom. 
+        Enjoy garden views in all rooms. A continental or Asian breakfast can be enjoyed at the property. 
+        A variety of popular activities are available in the area around the property, including cycling and fishing. 
+        Hikkaduwa is 21 km from t</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.villa42ahungalla.com/ourRates.html</link>
+     <title>Our Rates</title>
+     <description>No Reservation Costs. Great Rates. Secret Deals. Save money.Best Possible prices in official web site, 24/7 Customer Service. Recent guest reviews. Great choice. Types: Hotels, Apartments, Villas, Hostels, Resorts, B&amp;Bs.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.villa42ahungalla.com/gallery.html</link>
+     <title>Gallery</title>
+     <description>This is villa 42 gallery , look our accomadation photos</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.villa42ahungalla.com/contact.html</link>
+     <title>Contact Us</title>
+     <description>Looking For Something Else in villa 42? Make a RESERVATION please contact us. villa42 Reservations Worldwide Team accessible 24/7. Toll-free contact numbers. contact us via whats app messenger e mail or phone </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
